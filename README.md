@@ -10,3 +10,5 @@
 
 <p><b>-HTML</b><p/>
 <p><b>-CSS</b></p>
+
+<img src="https://github.com/RubianoMenezes/CSS/blob/main/Desafio/img/Wide%20Coverage.jpeg" />
